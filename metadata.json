@@ -1,0 +1,8 @@
+{
+  "name": "Swasthya 360",
+  "description": "A modern web application combining Indian Knowledge Systems (Ayurveda) with modern web technologies, featuring AI-powered herb scanning, symptom-based remedies, and dosha analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
